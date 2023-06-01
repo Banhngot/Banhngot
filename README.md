@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoang Fake</h1>
 <h3 align="center">A passionate developer from Viet Nam</h3>
 
-<img align="right" width="500" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw3AwUUwl8jIDdEowZX9TF7N&ust=1685707811845000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCi64yFov8CFQAAAAAdAAAAABA_](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fb0621d07cea35d36f40304a746dc6c07e2ffd2ce9dc6c283b59b4697a8cd1039%2F68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f302a4647443642557a7a5a7331564a4c75592e676966&tbnid=sGO0QsnlUm-eqM&vet=12ahUKEwjk0KfVh6L_AhVZFIgKHcJxAq4QMygaegUIARDDAg..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fakram3598786&docid=WbyDOGVCUqTsYM&w=750&h=400&q=animated%20coding%20gif&hl=vi&ved=2ahUKEwjk0KfVh6L_AhVZFIgKHcJxAq4QMygaegUIARDDAg)">
+<img align="right" width="500" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banhngot&label=Profile%20views&color=0e75b6&style=flat" alt="banhngot" /> </p>
 
